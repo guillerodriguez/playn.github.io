@@ -33,6 +33,7 @@ useful things with the library.
 * [Physics] - demonstrates JBox2D integration
 * [Cute] - draws an environment and a character walking around therein
 * [Showcase] - shows a bunch of different things
+* [Drop] - a port of libgdx's "Drop" simple game
 
 ## Cookbook
 
@@ -43,3 +44,4 @@ there's something specific you want to do, check there for a code sample that do
 [Hello]: http://github.com/playn/playn-samples/tree/master/hello
 [Physics]: http://github.com/playn/playn-samples/tree/master/physics
 [Showcase]: http://github.com/playn/playn-samples/tree/master/showcase
+[Drop]: http://github.com/playn/playn-samples/tree/master/drop
